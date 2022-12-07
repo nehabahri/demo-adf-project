@@ -1,0 +1,12 @@
+{
+	"name": "ls_sinkData",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=outputdemo;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDM1QjVFNjg4LUM2QjktNEY2NC05RTdCLUEzOTY2Mzg4Mjg3NF82ODQ3NDFiMy00OGJmLTQxYjQtYTJkMi1lMGY1M2U2YjFhODkiDQp9"
+		}
+	}
+}
