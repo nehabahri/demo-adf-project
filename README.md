@@ -11,7 +11,9 @@ This is a sample ADF project containing ADF resources, ARM templates & CICD pipe
 Contributor role on subscription
 
 ## CI/CD
-Azure DevOps YAML pipeline
+Azure DevOps YAML pipeline (https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery)
+![image](https://user-images.githubusercontent.com/119792929/209466079-e9d12cd8-fc05-460d-af17-4d41c3af2474.png)
+
 
 ## Data Pipelines
 Content movement within Azure
