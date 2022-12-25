@@ -1,7 +1,7 @@
-# demo-project
+# Demo ADF Project
 This is a sample ADF project containing ADF resources, ARM templates & CICD pipeline.
 
-## Resources
+## ADF Resources
 - Linked service
 - Dataset
 - Pipeline
