@@ -1,0 +1,7 @@
+{
+	"name": "shirFordb",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "this is used to connect on Prem database"
+	}
+}
