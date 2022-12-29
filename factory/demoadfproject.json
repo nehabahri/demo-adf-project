@@ -1,9 +1,0 @@
-{
-	"name": "demoadfproject",
-	"location": "westeurope",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "b2fcfd0a-c049-4bff-a14e-b6c5fd45f8fa",
-		"tenantId": "d234b1b5-8c7c-416e-96a3-90f7214da76a"
-	}
-}

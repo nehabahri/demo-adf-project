@@ -1,9 +1,0 @@
-{
-	"name": "mySampleadf12",
-	"location": "westeurope",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "9e922a1a-5d8c-48b1-9136-351b8c8129b2",
-		"tenantId": "40bf7642-4a94-438c-bbc1-4e4feeaeda86"
-	}
-}
